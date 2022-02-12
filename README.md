@@ -3,6 +3,7 @@
 ### Hi there 👋
 
 ![alt text](https://lisasbalcony.com/wp-content/uploads/2018/03/Hi-there.png)
+![my_image](meta.jpeg)
 
 <!--
 **akeryan/akeryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
