@@ -1,7 +1,7 @@
 ![my_image](meta.jpeg)
 
-### Hi there 👋. I am Aram, currently a student at <a href="https://42abudhabi.ae/"> 42 Abu Dhabi </a> learning how to build things out of thin air ;)
-Very much excited about Web 3.0 paradigm, blockchain technology, as well as discentralization phylosophy.  
+### Hi there 👋 I am Aram, currently a student at <a href="https://42abudhabi.ae/"> 42 Abu Dhabi </a> learning how to build things out of thin air ;)
+Very much excited about Metaverses, DAO's, overall Web 3.0 paradigm, and enabling all of these blockchain technology.  
 
 
 
