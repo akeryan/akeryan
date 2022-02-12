@@ -1,8 +1,6 @@
 ![my_image](meta.jpeg)
 
-### Hi there 👋
-
-![alt text](https://lisasbalcony.com/wp-content/uploads/2018/03/Hi-there.png)
+### Hi there 👋. I am Aram, currently a student at <a href="https://42abudhabi.ae/"> 42 Abu Dhabi </a>
 
 
 <!--
