@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg)
+![alt text](http://performancecomms.com/wp-content/uploads/2021/08/Metaverse-image-one.jpg)
 
 Try this markdown:
 
