@@ -5,7 +5,7 @@ Very much excited about Metaverses, DAO's, Web 3.0 paradigm, and enabling all of
 
 <h1>42 Journey</h>
 <h2>Rank 0</h2>
-<a href="https://github.com/akeryan/42AD-libft">Libft</a> 
+<a href="https://github.com/akeryan/42AD-libft">Libft</a>: ![my_image](libft.svg)
 
 <!--
 **akeryan/akeryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
