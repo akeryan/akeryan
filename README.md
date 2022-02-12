@@ -1,8 +1,6 @@
-### Hi there 👋
-
 ![alt text](http://performancecomms.com/wp-content/uploads/2021/08/Metaverse-image-one.jpg)
 
-Try this markdown:
+### Hi there 👋
 
 ![alt text](https://lisasbalcony.com/wp-content/uploads/2018/03/Hi-there.png)
 
