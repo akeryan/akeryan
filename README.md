@@ -3,7 +3,7 @@
 ### Hi there 👋 I am Aram, urrently a student at <a href="https://42abudhabi.ae/"> 42 Abu Dhabi </a> learning how to build things out of thin air ;)
 Very much excited about Metaverses, DAO's, Web 3.0 paradigm, and enabling all of these - the blockchain technology.  
 
-
+<h1>42 Journey</h>
 
 <!--
 **akeryan/akeryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
