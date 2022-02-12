@@ -1,9 +1,9 @@
-![alt text](http://performancecomms.com/wp-content/uploads/2021/08/Metaverse-image-one.jpg)
+![my_image](meta.jpeg)
 
 ### Hi there 👋
 
 ![alt text](https://lisasbalcony.com/wp-content/uploads/2018/03/Hi-there.png)
-![my_image](meta.jpeg)
+
 
 <!--
 **akeryan/akeryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
