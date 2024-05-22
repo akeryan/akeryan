@@ -1,5 +1,4 @@
 ### Hi there 👋 I am Aram, currently a student at <a href="https://42abudhabi.ae/"> 42 Abu Dhabi </a> learning how to build things out of thin air ;)
-Very much excited about Metaverses, DAO's, Web 3.0 paradigm, and enabling all of these - the blockchain technology.  
 
 <h1>42 Journey</h>
 <h2>Rank 4</h2>
